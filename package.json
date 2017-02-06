@@ -1,0 +1,22 @@
+{
+  "name": "businesswebsitenodjs",
+  "version": "1.0.0",
+  "description": "Put your website on a Node.js server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijkevanderveer/BusinessWebsiteNodeJS.git"
+  },
+  "author": "maatje van der veer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marijkevanderveer/BusinessWebsiteNodeJS/issues"
+  },
+  "homepage": "https://github.com/marijkevanderveer/BusinessWebsiteNodeJS#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
